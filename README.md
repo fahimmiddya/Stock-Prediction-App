@@ -13,13 +13,13 @@ It uses an artificial recurrent neural network called Long Short Term Memory (LS
 </ul>
 <h2><b> Current Features </h2>
  <ul style="Current Features:square;">
-  <li>Basic stock closing price using LSTM model.</li>
-  <li>Historical Data obtained from webscraping with the help of Yahoo finance api</li>
-  <li> Custom input by user allowed.</li>
-  <li>Interactive Graphs made using matplotlib.</li>
+  <li> Basic stock closing price using LSTM model.</li>
+  <li> Historical Data obtained from webscraping with the help of Yahoo Finance API</li>
+  <li> Custom input of stocks and dates by user.</li>
+  <li> Interactive Graphs made using matplotlib.</li>
 </ul>
 <h2><b> Future Features </h2>
  <ul style="Future Features:square;">
-  <li>Addition of Indian Holidays to ensure better prediction </li>
-  <li>Feature of downloading an excel sheet consisting of all the predicted price in it.</li>
+  <li> Addition of Indian Holidays to ensure better prediction </li>
+  <li> Feature of downloading an excel sheet consisting of all the predicted price in it.</li>
 </ul>
