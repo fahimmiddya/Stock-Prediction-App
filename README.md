@@ -2,7 +2,7 @@
 This web app predicts the closing price of a stock that is given by the user
 It uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price.
  <h2> Deployed at : https://stock-prediction-app.herokuapp.com/ </h2>
- <h2> Deployed at : https://share.streamlit.io/fahimmiddya/stock-v2/main/app.py </h2>
+ <h2> Deployed at : https://share.streamlit.io/fahimmiddya/stock-predictor/main/app.py</h2>
 </ul>
 <h2><b> Tech Stack Used: </h2>
  <ul style="Tech Stack Used:square;">
