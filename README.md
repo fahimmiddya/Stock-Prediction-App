@@ -1,6 +1,6 @@
-<h1> <b> Stock Prediction App </h1>
-This web app predicts the closing price of a stock that is given by the user
-It uses an artificial recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price.
+<h1> <b> Stock Trend Prediction App </h1>
+This web app predicts the trend and the closing price of a stock that is given by the user
+It uses an variant of recurrent neural network called Long Short Term Memory (LSTM) to predict the closing stock price.
  <h2> Deployed at : https://stock-prediction-app.herokuapp.com/ </h2>
  <h2> Deployed at : https://share.streamlit.io/fahimmiddya/stock-predictor/main/app.py</h2>
 </ul>
@@ -20,6 +20,6 @@ It uses an artificial recurrent neural network called Long Short Term Memory (LS
 </ul>
 <h2><b> Future Features </h2>
  <ul style="Future Features:square;">
-  <li> Addition of Indian Holidays to ensure better prediction </li>
+  <li> Improving the prediction efficiency </li>
   <li> Feature of downloading an excel sheet consisting of all the predicted price in it.</li>
 </ul>
